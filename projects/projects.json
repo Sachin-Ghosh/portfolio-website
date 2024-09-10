@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Godawn",
+    "desc": "Fully fledged Warehouse Inventory Management System web based on different design patterns. Built using NextJS,NodeJS,ExpressJS,and MongoDB.",
+    "image": "godawn",
+    "category": "mern",
+    "links": {
+      "view": "https://godawn.vercel.app/",
+      "code": "https://github.com/Sachin-Ghosh/Godawn_frontend"
+    }
+  },
+  {
+    "name": "BillBlaze",
+    "desc": "A invoice generator website. Built using NextJS,NodeJS,ExpressJS,and MongoDB.",
+    "image": "billblaze",
+    "category": "mern",
+    "links": {
+      "view": "https://invoice-generator-virid.vercel.app/",
+      "code": "https://github.com/Sachin-Ghosh/Invoice-Generator-Frontend"
+    }
+  },
+  {
+    "name": "Society Sathi",
+    "desc": "A website Designed to solve all critical problems of a Society .Integrate your society.Built using NextJS,NodeJS,ExpressJS,and MongoDB.",
+    "image": "societysathi",
+    "category": "mern",
+    "links": {
+      "view": "https://www.societysathi.com/",
+      "code": "https://github.com/rhtm123/ff-frontend"
+    }
+  },
+  {
+    "name": "BuildEz",
+    "desc": "A website bulder which generated code.",
+    "image": "buildez",
+    "category": "mern",
+    "links": {
+      "view": "https://gt-website-builder.vercel.app/",
+      "code": "https://github.com/rhtm123/gt-website-builder"
+    }
+  },
+  {
+    "name": "MastDealHai",
+    "desc": "A full stack help you find the best deals on Amazon, Flipkart & other major Indian stores. Compare prices, track discounts.Built using NextJS,Python,PostGresSQl",
+    "image": "mastdealhai",
+    "category": "mern",
+    "links": {
+      "view": "https://www.mastdealhai.com/",
+      "code": "https://github.com/rhtm123/affililate-frontend"
+    }
+  },
+  {
+    "name": "BookZy",
+    "desc": "A book recommender system. Built using Python,and HTML ",
+    "image": "bookzy",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Sachin-Ghosh/Book-recomender-system"
+    }
+  },
+  {
+    "name": "TransferZ",
+    "desc": "A Native web app that converts file. Built using NextJS ",
+    "image": "transferz",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
